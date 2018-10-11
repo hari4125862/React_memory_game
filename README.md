@@ -13,8 +13,8 @@ Memory Matching is a simple project which is developed using react . I made use 
 
 ## Instructions 
 
-Clone this repository as :
-### 
+view live 
+### https://hari4125862.github.io/React_memory_game/
 
 Make sure you have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
